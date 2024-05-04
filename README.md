@@ -22,7 +22,7 @@ Este proyecto es mi portafolio personal desarrollado en .NET Core, diseñado par
 Para clonar y ejecutar este proyecto localmente, sigue los siguientes pasos:
 
 ```bash
-git clone https://github.com/tu-usuario/portafolio.git
+git clone "URL que corresponda"
 cd portafolio
 dotnet restore
 dotnet run
